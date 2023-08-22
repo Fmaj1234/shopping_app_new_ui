@@ -1,16 +1,11 @@
 # shopping_app_new_ui
 
-A new Flutter project.
+A preview of the app
 
-## Getting Started
+https://github.com/Fmaj1234/shopping_app_new_ui/assets/49940296/41f646f5-5575-477c-ba80-42afcfb6dc95
 
-This project is a starting point for a Flutter application.
+![Screenshot_20230821-160410_iphone13blue_portrait](https://github.com/Fmaj1234/shopping_app_new_ui/assets/49940296/02fa17be-e698-4625-bfc3-8c6b9d220e53)
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_20230821-160458_iphone13blue_portrait](https://github.com/Fmaj1234/shopping_app_new_ui/assets/49940296/2a6f6e4f-882b-4aa6-88f5-220c03c3196e)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230821-160509_iphone13red_portrait](https://github.com/Fmaj1234/shopping_app_new_ui/assets/49940296/57b1121f-6a53-4f09-8481-9f026f9b7baa)
